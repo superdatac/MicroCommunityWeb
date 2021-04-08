@@ -218,7 +218,7 @@ body.canvas-menu .logo-element {
 
 body.mini-navbar .nav-header {
   padding: 0;
-  background-color: #1ab394;
+  background-color: #426eae;
 }
 
 body.canvas-menu .nav-header {
@@ -546,7 +546,7 @@ body.rtls .top-navigation #vc-page, body.rtls.mini-navbar .top-navigation #vc-pa
 }
 
 .label-primary, .badge-primary {
-  background-color: #1ab394;
+  background-color: #426eae;
   color: #FFFFFF;
 }
 
@@ -660,8 +660,8 @@ ul.nav-second-level {
 
 .btn-primary {
   color: #fff;
-  background-color: #1ab394;
-  border-color: #1ab394;
+  background-color: #426eae;
+  border-color: #426eae;
 }
 
 .btn-xs {
@@ -777,7 +777,7 @@ ul.nav-second-level {
 .dropdown-menu>.active>a, .dropdown-menu>.active>a:focus, .dropdown-menu>.active>a:hover {
   color: #fff;
   text-decoration: none;
-  background-color: #1ab394;
+  background-color: #426eae;
   outline: 0;
 }
 
@@ -1075,7 +1075,7 @@ h1 {
 }
 
 .text-navy {
-  color: #1ab394 !important;
+  color: #426eae !important;
 }
 
 .category-list li {
@@ -1088,7 +1088,7 @@ h1 {
 }
 
 .category-list li a .text-navy {
-  color: #1ab394;
+  color: #426eae;
 }
 
 .mail-box {
@@ -1160,7 +1160,7 @@ table.table-mail tr td {
 }
 
 .sk-spinner-wave div {
-  background-color: #1ab394;
+  background-color: #426eae;
   height: 100%;
   width: 6px;
   display: inline-block;
@@ -1334,7 +1334,7 @@ table.table-mail tr td {
 }
 
 .category-list li a .text-navy {
-  color: #1ab394;
+  color: #426eae;
 }
 
 .category-list li a .text-primary {
@@ -1908,7 +1908,7 @@ a:hover {
 }
 
 .select {
-  color: #1ab394;
+  color: #426eae;
 }
 
 .overflow-hidden {
@@ -1930,7 +1930,7 @@ a:hover {
 
 .staff div span:hover {
   font-size: 20px;
-  color: #1ab394;
+  color: #426eae;
 }
 
 .staff::-webkit-scrollbar {
@@ -2014,7 +2014,7 @@ a:hover {
 .vc-line{
   width:100%;
   height:2px;
-  background: -webkit-linear-gradient(left, #fff -4%,#1ab394 50%,#fff 100%);
+  background: -webkit-linear-gradient(left, #fff -4%,#426eae 50%,#fff 100%);
 }
 .vc-table-border{
   border: 1px solid #000000;

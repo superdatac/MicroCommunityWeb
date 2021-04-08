@@ -1,21 +1,21 @@
-# HC小区管理系统是前后端完全开源的小区物业管理系统，包含小区后端项目，小区前段项目，物业版APP和业主版小程序,QQ群: 827669685
+# 小蓝人小区管理系统是前后端完全开源的小区物业管理系统，包含小区后端项目，小区前段项目，物业版APP和业主版小程序,QQ群: 827669685
 
 ## 开源代码说明
 
-### HC小区后端代码
+### 小蓝人小区后端代码
  [https://gitee.com/wuxw7/MicroCommunity](https://gitee.com/wuxw7/MicroCommunity)
-### HC小区前段代码
+### 小蓝人小区前段代码
 [https://gitee.com/java110/MicroCommunityWeb](https://gitee.com/java110/MicroCommunityWeb)
-### HC智慧家庭（业主版）
+### 小蓝人智慧家庭（业主版）
 [https://gitee.com/java110/WechatOwnerService](https://gitee.com/java110/WechatOwnerService)
-### HC掌上物业（物业版）
+### 小蓝人掌上物业（物业版）
 [https://gitee.com/java110/PropertyApp](https://gitee.com/java110/PropertyApp)
 
 ### 系统简介（introduction）
 
 1. 开发工具：
 
-nodejs + vscode + MicroCommunity(HC小区后端)
+nodejs + vscode + MicroCommunity(小蓝人小区后端)
 
 2. 官方网站
 
